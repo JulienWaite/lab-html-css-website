@@ -1,0 +1,83 @@
+html {
+  font-family: Arial;
+  color: #fffafa;
+}
+body {
+  background-color: #293542;
+  margin: 20px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+}
+h2,h3,h3,p {
+  padding: 10px;
+}
+h2 {
+  font-size: 35px;
+}
+h3 {
+  font-size: 25px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+h4 {
+  font-size: 20px;
+  line-height: 125%;
+}
+p  {
+  font-size: 20px;
+}
+a {
+  color: #fffafa;
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline;
+  padding: 10px;
+}
+.job {
+  clear: both;
+}
+.jobtext {
+  float: left;
+  background-color: #fffafa;
+  border: 2px solid;
+  border-radius: 10px;
+  margin: 10px;
+  color: #293542;
+  width: 500px;
+  height: 170px;
+
+}
+.jobimageframe {
+  background-color: yellow;
+}
+.jobimage {
+  width: 25%;
+  border-radius: 10px;
+  border: 2px solid #fffafa;
+  float: right;
+  margin: 10px;
+}
+#aboutme {
+  float: left;
+}
+#mugshot {
+  border: 2px solid white;
+  float: right;
+  border-radius: 10px;
+  margin: 10px 20px;
+}
+#education {
+  clear: both;
+}
+#experience {
+  text-align: justify;
+}
+footer {
+  clear: both;
+}
